@@ -9,7 +9,7 @@ namespace CharlieDobson_Interfaces_Programming2
     internal class Player
     {
         public ConsoleColor _playerColor;
-        Position _playerPosition;
+        public Position _playerPosition;
         public Player(Position playerPosition, ConsoleColor color)
         {
             _playerPosition = playerPosition;

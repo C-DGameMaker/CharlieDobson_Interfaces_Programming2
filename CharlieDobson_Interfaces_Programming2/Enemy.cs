@@ -42,5 +42,10 @@ namespace CharlieDobson_Interfaces_Programming2
             }
         }
 
+        public void ChangeMovementStragety()
+        {
+            
+        }
+
     }
 }
