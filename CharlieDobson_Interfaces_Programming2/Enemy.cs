@@ -9,7 +9,7 @@ namespace CharlieDobson_Interfaces_Programming2
     internal class Enemy
     {
         public ConsoleColor _enemyColor;
-        Position _enemyPosition;
+        public Position _enemyPosition { get; private set; }
 
         public Enemy(Position enemyPosition, ConsoleColor enemyColor)
         {
@@ -24,27 +24,40 @@ namespace CharlieDobson_Interfaces_Programming2
             random
         };
 
-        MovementStragety _movementStraety;
+        MovementStragety _movementStragety;
+        Random _random = new Random();
+        public char _enemyState;
 
         public void Move()
         {
-            if(_movementStraety == MovementStragety.aggresive)
+            if(_movementStragety == MovementStragety.aggresive)
             {
 
             }
-            else if(_movementStraety == MovementStragety.passive)
+            else if(_movementStragety == MovementStragety.passive)
             {
 
             }
-            else if(_movementStraety == MovementStragety.random)
+            else if(_movementStragety == MovementStragety.random)
             {
-
+                int direction = _random.Next(1,5);
             }
         }
 
         public void ChangeMovementStragety()
         {
-            
+            if(_enemyState == 'i')
+            {
+                _movementStragety = MovementStragety.aggresive;
+            }
+            else if (_enemyState == 'o')
+            {
+                _movementStragety = MovementStragety.passive;
+            }
+            else if (_enemyState == 'p')
+            {
+                _movementStragety = MovementStragety.random;
+            }
         }
 
     }
