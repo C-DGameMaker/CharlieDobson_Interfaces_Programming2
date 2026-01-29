@@ -19,6 +19,14 @@ namespace CharlieDobson_Interfaces_Programming2
 
             while(true)
             {
+                Console.Clear();
+                Console.SetCursorPosition(_player._playerPosition._xPos, _player._playerPosition._yPos);
+                Console.ForegroundColor = _player._playerColor;
+                Console.Write("*");
+
+                Console.SetCursorPosition(_enemy._enemyPosition._xPos, _enemy._enemyPosition._yPos);
+                Console.ForegroundColor = _enemy._enemyColor;
+                Console.Write("*");
                 _enemyChar = Console.ReadKey().KeyChar;
 
                 if(_enemyChar == 'm')
@@ -28,18 +36,10 @@ namespace CharlieDobson_Interfaces_Programming2
                 }
                 if(_enemyChar == 'i' || _enemyChar == 'o' || _enemyChar == 'p')
                 {
-                    _enemy._enemyState = _enemyChar;
-                    _enemy.ChangeMovementStragety();
+                    
                 }
 
-                Console.Clear();
-                Console.SetCursorPosition(_player._playerPosition._xPos, _player._playerPosition._yPos);
-                Console.ForegroundColor = _player._playerColor;
-                Console.Write("*");
-
-                Console.SetCursorPosition(_enemy._enemyPosition._xPos, _enemy._enemyPosition._yPos);
-                Console.ForegroundColor = _enemy._enemyColor;
-                Console.Write("*");
+                
             }
         }
 
