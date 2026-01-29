@@ -14,14 +14,14 @@ namespace CharlieDobson_Interfaces_Programming2
         {
 
             int direction = _random.Next(1, 5);
-            int _xDirection;
-            int _yDirection;
+            int _xDirection = 0;
+            int _yDirection = 0;
 
             if (direction == 1)
             {
                  _xDirection = position._xPos + 1;
 
-                if (_xDirection <= 10)
+                if (_xDirection <= 30)
                 {
                     position._xPos++;
                 }
@@ -50,7 +50,7 @@ namespace CharlieDobson_Interfaces_Programming2
 
                 if (_yDirection >= 0)
                 {
-                    position._yPos++;
+                    position._yPos--;
                 }
             }
 
