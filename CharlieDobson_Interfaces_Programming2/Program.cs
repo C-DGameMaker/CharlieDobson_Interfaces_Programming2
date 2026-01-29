@@ -9,10 +9,10 @@ namespace CharlieDobson_Interfaces_Programming2
 {
     internal class Program
     {
-        
+        public static Player _player = new Player(playerPosition: new Position(10, 10), color: ConsoleColor.Blue);
         static void Main(string[] args)
         {
-             Player _player = new Player(playerPosition: new Position(10, 10), color: ConsoleColor.Blue);
+             
              Enemy _enemy = new Enemy(enemyPosition: new Position(0, 10), enemyColor: ConsoleColor.DarkRed);
 
             char _enemyChar;
@@ -23,7 +23,7 @@ namespace CharlieDobson_Interfaces_Programming2
 
                 if(_enemyChar == 'm')
                 {
-                    _enemy.Move();
+                    _enemy.Move(_player);
                     
                 }
                 if(_enemyChar == 'i' || _enemyChar == 'o' || _enemyChar == 'p')
@@ -32,6 +32,7 @@ namespace CharlieDobson_Interfaces_Programming2
                     _enemy.ChangeMovementStragety();
                 }
 
+                Console.Clear();
                 Console.SetCursorPosition(_player._playerPosition._xPos, _player._playerPosition._yPos);
                 Console.ForegroundColor = _player._playerColor;
                 Console.Write("*");
