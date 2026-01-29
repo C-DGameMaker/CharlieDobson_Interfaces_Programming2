@@ -9,7 +9,7 @@ namespace CharlieDobson_Interfaces_Programming2
     internal class Enemy
     {
         public ConsoleColor _enemyColor;
-        public Position _enemyPosition { get; private set; }
+        public Position _enemyPosition { get; set; }
 
         public Enemy(Position enemyPosition, ConsoleColor enemyColor)
         {

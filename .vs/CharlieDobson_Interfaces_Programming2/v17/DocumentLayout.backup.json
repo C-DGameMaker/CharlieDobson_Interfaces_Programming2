@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_interfaces_programming2\\charliedobson_interfaces_programming2\\randommovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\randommovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_interfaces_programming2\\charliedobson_interfaces_programming2\\passivemovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\charliedobson_interfaces_programming2\\passivemovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\passivemovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_interfaces_programming2\\charliedobson_interfaces_programming2\\agressivemovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\agressivemovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_interfaces_programming2\\charliedobson_interfaces_programming2\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\charliedobson_interfaces_programming2\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_interfaces_programming2\\charliedobson_interfaces_programming2\\imovestragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\charliedobson_interfaces_programming2\\imovestragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\imovestragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\charliedobson_interfaces_programming2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\charliedobson_interfaces_programming2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\charliedobson_interfaces_programming2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\charliedobson_interfaces_programming2\\agressivemovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\agressivemovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_interfaces_programming2\\charliedobson_interfaces_programming2\\randommovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|solutionrelative:charliedobson_interfaces_programming2\\randommovementstragety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FE4DCAF-D736-4696-8D5D-2229716C5BAE}|CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2.csproj|C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\charliedobson_interfaces_programming2\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,50 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "RandomMovementStragety.cs",
               "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\RandomMovementStragety.cs",
               "RelativeDocumentMoniker": "CharlieDobson_Interfaces_Programming2\\RandomMovementStragety.cs",
               "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\RandomMovementStragety.cs",
               "RelativeToolTip": "CharlieDobson_Interfaces_Programming2\\RandomMovementStragety.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T19:03:52.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PassiveMovementStragety.cs",
               "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\PassiveMovementStragety.cs",
               "RelativeDocumentMoniker": "CharlieDobson_Interfaces_Programming2\\PassiveMovementStragety.cs",
               "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\PassiveMovementStragety.cs",
               "RelativeToolTip": "CharlieDobson_Interfaces_Programming2\\PassiveMovementStragety.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T19:03:24.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AgressiveMovementStragety.cs",
               "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\AgressiveMovementStragety.cs",
               "RelativeDocumentMoniker": "CharlieDobson_Interfaces_Programming2\\AgressiveMovementStragety.cs",
               "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\AgressiveMovementStragety.cs",
               "RelativeToolTip": "CharlieDobson_Interfaces_Programming2\\AgressiveMovementStragety.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T19:01:42.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IMoveStragety.cs",
               "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\IMoveStragety.cs",
               "RelativeDocumentMoniker": "CharlieDobson_Interfaces_Programming2\\IMoveStragety.cs",
@@ -98,28 +98,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\Enemy.cs",
               "RelativeDocumentMoniker": "CharlieDobson_Interfaces_Programming2\\Enemy.cs",
               "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\Enemy.cs",
               "RelativeToolTip": "CharlieDobson_Interfaces_Programming2\\Enemy.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowA0AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T11:54:07.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\Player.cs",
-              "RelativeDocumentMoniker": "CharlieDobson_Interfaces_Programming2\\Player.cs",
-              "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\Player.cs",
-              "RelativeToolTip": "CharlieDobson_Interfaces_Programming2\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T11:53:59.137Z",
               "EditorCaption": ""
             },
             {
@@ -136,15 +123,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\Player.cs",
+              "RelativeDocumentMoniker": "CharlieDobson_Interfaces_Programming2\\Player.cs",
+              "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\Player.cs",
+              "RelativeToolTip": "CharlieDobson_Interfaces_Programming2\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:53:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\Program.cs",
               "RelativeDocumentMoniker": "CharlieDobson_Interfaces_Programming2\\Program.cs",
               "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_Interfaces_Programming2\\CharlieDobson_Interfaces_Programming2\\Program.cs",
               "RelativeToolTip": "CharlieDobson_Interfaces_Programming2\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T15:33:53.682Z"
+              "WhenOpened": "2026-01-23T15:33:53.682Z",
+              "EditorCaption": ""
             }
           ]
         }
