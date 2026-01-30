@@ -21,7 +21,7 @@ namespace CharlieDobson_Interfaces_Programming2
             {
                  _xDirection = position._xPos + 1;
 
-                if (_xDirection <= 30)
+                if (_xDirection <= position._maxWidth)
                 {
                     position._xPos++;
                 }
@@ -39,7 +39,7 @@ namespace CharlieDobson_Interfaces_Programming2
             {
                  _yDirection = position._yPos + 1;
 
-                if (_yDirection <= 10)
+                if (_yDirection <= position._maxHeight)
                 {
                     position._yPos++;
                 }

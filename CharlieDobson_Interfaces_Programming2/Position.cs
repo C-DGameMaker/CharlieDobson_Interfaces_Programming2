@@ -11,6 +11,9 @@ namespace CharlieDobson_Interfaces_Programming2
         public int _xPos;
         public int _yPos;
 
+        public int _maxWidth = 30;
+        public int _maxHeight = 10;
+
         public Position(int xPos, int yPos)
         {
             _xPos = xPos;

@@ -57,14 +57,14 @@ namespace CharlieDobson_Interfaces_Programming2
 
                 if (xFromPlayer < yFromPlayer)
                 {
-                    if (position._xPos + 1 <= 30)
+                    if (position._xPos + 1 <= _player._maxWidth)
                     {
                         position._xPos++;
                     }
                 }
                 else
                 {
-                    if (position._yPos + 1 <= 10)
+                    if (position._yPos + 1 <= _player._maxHeight)
                     {
                         position._yPos++;
                     }
